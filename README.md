@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-TIL Repository -> velog : https://velog.io/@mmeo0205
+TIL blog : https://velog.io/@mmeo0205
+ISSUE blog -> https://dcun.tistory.com/
